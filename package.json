@@ -5,13 +5,11 @@
     "babel-polyfill": "^6.3.14",
 
     "webpack": "^2.0.1-beta",
-    "webpack-dev-server": "^1.14.0",
     "copy-webpack-plugin": "^0.3.3"
   },
   "scripts": {
     "build": "webpack --optimize-minimize",
-    "watch": "webpack --optimize-minimize --watch",
-    "start": "webpack-dev-server --hot --inline"
+    "watch": "webpack --optimize-minimize --watch"
   },
   "author": "Axel Rauschmayer",
   "license": "MIT"
