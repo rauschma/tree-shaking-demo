@@ -2,8 +2,7 @@
   "scripts": {
     "browserify": "browserify index.js > dest/bundle.browserify.js",
     "rollup": "rollup -c rollup.config.js",
-    "build": "webpack --optimize-minimize",
-    "watch": "webpack --optimize-minimize --watch"
+    "webpack": "webpack --optimize-minimize"
   },
   "author": "Axel Rauschmayer",
   "license": "MIT",

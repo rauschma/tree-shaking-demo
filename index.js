@@ -3,6 +3,7 @@
 /**
  * import source code
  * > browserify
+ * > webpack
  */
 import { format } from './lib/silly-datetime.es2015.js';
 
