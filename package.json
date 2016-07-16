@@ -2,7 +2,7 @@
   "devDependencies": {
     "babel-loader": "^6.2.4",
     "babel-polyfill": "^6.9.1",
-    "babel-preset-es2015-webpack": "^6.4.1",
+    "babel-preset-es2015-webpack2": "^1.0.0",
     "copy-webpack-plugin": "^0.3.3",
     "webpack": "^2.1.0-beta",
     "webpack-dev-server": "^2.1.0-beta"
