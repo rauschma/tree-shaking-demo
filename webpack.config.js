@@ -23,10 +23,6 @@ module.exports = {
             {
                 loader: 'babel-loader',
                 test: dir_js,
-                query: {
-                    presets: ['es2015-webpack'],
-                    plugins: [],
-                },
             }
         ]
     },
