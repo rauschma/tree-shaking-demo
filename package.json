@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "webpack --optimize-minimize --progress",
-    "watch": "webpack --progress --watch",
+    "watch": "webpack --optimize-minimize --progress --watch",
     "dev": "webpack-dev-server --history-api-fallback --content-base ./src --open"
   },
   "author": "Axel Rauschmayer",
