@@ -12,8 +12,8 @@ npm install
 There are two ways in which you can build and run the web app:
 
 * Build once:
-    * `npm run build`
+    * `npm build`
     * Open `build/index.html`
 * Watch files continuously, rebuild incrementally, whenever one of them changes:
-    * `npm run watch`
+    * `npm watch`
     * Open `build/index.html`, manually reload page in browser whenever there was a change
